@@ -1,24 +1,24 @@
 [submodule "user_service"]
 	path = user_service
-	url = https://github.com/CorporationX/user_service.git
+	url = https://github.com/Dlakares/user_service
 [submodule "post_service"]
 	path = post_service
-	url = https://github.com/CorporationX/post_service.git
+	url = https://github.com/Dlakares/post_service
 [submodule "project_service"]
 	path = project_service
-	url = https://github.com/CorporationX/project_service.git
+	url = https://github.com/Dlakares/project_service
 [submodule "infra"]
 	path = infra
-	url = https://github.com/CorporationX/infra.git
+	url = https://github.com/Dlakares/infra
 [submodule "payment_service"]
 	path = payment_service
-	url = https://github.com/CorporationX/payment_service.git
+	url = https://github.com/Dlakares/payment_service
 [submodule "notification_service"]
 	path = notification_service
-	url = https://github.com/CorporationX/notification_service.git
+	url = https://github.com/Dlakares/notification_service
 [submodule "analytics_service"]
 	path = analytics_service
-	url = https://github.com/CorporationX/analytics_service.git
+	url = https://github.com/Dlakares/analytics_service
 [submodule "achievement_service"]
 	path = achievement_service
-	url = https://github.com/CorporationX/achievement_service.git
+	url = https://github.com/Dlakares/achievement_service
