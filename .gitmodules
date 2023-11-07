@@ -22,3 +22,6 @@
 [submodule "achievement_service"]
 	path = achievement_service
 	url = https://github.com/Dlakares/achievement_service
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/Dlakares/account_service
