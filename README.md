@@ -31,4 +31,4 @@
 [Сервисный класс баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/service/balance/BalanceService.java)
 
 ## Остальные сервисы
-В них сделана минимальная работа, так что решаю не тратить ваше время на CRUD операции, хоть и с добавлением некоторой логики
+В них сделана не настолько уникальная работа, так что решаю не тратить ваше время на CRUD операции, хоть и с добавлением некоторой логики
