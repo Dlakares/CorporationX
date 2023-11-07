@@ -20,5 +20,14 @@
 
 [Сервис](https://github.com/Dlakares/payment_service/blob/medusa-master/src/main/java/faang/school/paymentservice/service/payment/PaymentService.java) выполняет все действия описанные в контроллере
 
+
+## Account Service
+Спроектировал таблицы [баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/resources/db/changelog/changeset/V004__account-service_balance-table.sql) и [истории баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/resources/db/changelog/changeset/V005__account-service_balances_history-table.sql)
+[Контроллер](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/controller/BalanceController.java) - создание, обновление и получение [баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/model/Balance.java)
+
+[Сущность истории баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/model/BalanceHistory.java)
+
+[Сервисный класс баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/service/balance/BalanceService.java)
+
 ## Остальные сервисы
 В них сделана минимальная работа, так что решаю не тратить ваше время на CRUD операции, хоть и с добавлением некоторой логики
