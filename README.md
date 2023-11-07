@@ -23,6 +23,7 @@
 
 ## Account Service
 Спроектировал таблицы [баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/resources/db/changelog/changeset/V004__account-service_balance-table.sql) и [истории баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/resources/db/changelog/changeset/V005__account-service_balances_history-table.sql)
+
 [Контроллер](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/controller/BalanceController.java) - создание, обновление и получение [баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/model/Balance.java)
 
 [Сущность истории баланса](https://github.com/Dlakares/account_service/blob/medusa-master/src/main/java/faang/school/accountservice/model/BalanceHistory.java)
