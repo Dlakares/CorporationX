@@ -20,5 +20,5 @@
 	path = analytics_service
 	url = https://github.com/Dlakares/analytics_service
 [submodule "achievement_service"]
-	path = achievement_service/medusa-master
+	path = achievement_service
 	url = https://github.com/Dlakares/achievement_service
