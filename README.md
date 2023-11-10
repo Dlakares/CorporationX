@@ -16,7 +16,7 @@
 
 [Контроллер](https://github.com/Dlakares/payment_service/blob/medusa-master/src/main/java/faang/school/paymentservice/controller/PaymentController.java) поддерживает - создание, отмену, планирование и проведение платежа
 
-[Планироващик](https://github.com/Dlakares/payment_service/blob/medusa-master/src/main/java/faang/school/paymentservice/scheduling/payment/PaymentScheduler.java) - создаёт запланирование платежи
+[Планировщик](https://github.com/Dlakares/payment_service/blob/medusa-master/src/main/java/faang/school/paymentservice/scheduling/payment/PaymentScheduler.java) - создаёт и проводит к сроку запланированые платежи
 
 [Сервис](https://github.com/Dlakares/payment_service/blob/medusa-master/src/main/java/faang/school/paymentservice/service/payment/PaymentService.java) выполняет все действия описанные в контроллере
 
